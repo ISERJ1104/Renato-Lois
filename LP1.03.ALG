@@ -5,4 +5,4 @@ inicio
 	escreval("digite um numero")
 		leia(n)
 	escreval("voce digitou: ", n)
-fimalgoritimo
+fimalgoritmo
