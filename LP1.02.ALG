@@ -1,7 +1,7 @@
 algoritimo "02"
 var
-a : inteiro
+	a : inteiro
 inicio
-escreval("escreva um numero")
-leia(a)
+	escreval("escreva um numero")
+	leia(a)
 fimalgoritimo
