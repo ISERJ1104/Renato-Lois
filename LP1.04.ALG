@@ -8,4 +8,4 @@ inicio
 	escreval("escreva outro numero")
 		leia(m)
 	escreval("a soma dos numeros deu", n + m]
-fimalgoritimo
+fimalgoritmo
