@@ -1,4 +1,4 @@
-algoritmo ""
+algoritmo "17"
 var
 	a : real
 inicio
