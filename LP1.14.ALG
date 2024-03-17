@@ -1,4 +1,4 @@
-algoritimo "14"
+algoritmo "14"
 var
 	t : real
   v : real
