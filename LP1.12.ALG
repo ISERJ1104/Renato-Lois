@@ -12,4 +12,4 @@ inicio
 	   a <- b
 	   b <- auxiliar
   escreval("os valores, invertidos, ficaram: [a] = ", a, " e [b] = ", b)
-fimalgoritimo
+fimalgoritmo
