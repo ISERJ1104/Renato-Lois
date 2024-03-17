@@ -4,4 +4,4 @@ var
 inicio
 	escreval("escreva um numero")
 		leia(a)
-fimalgoritimo
+fimalgoritmo
