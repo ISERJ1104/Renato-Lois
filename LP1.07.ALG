@@ -1,4 +1,4 @@
-algoritimo "07"
+algoritmo "07"
 var
 	a : inteiro
 inicio
