@@ -11,4 +11,4 @@ inicio
   	leia(m)
    		f <- c * (1 + j / 100) ^ m
   escreval("seu montante sera de: ", f)
-fimalgoritimo
+fimalgoritmo
