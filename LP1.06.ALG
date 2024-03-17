@@ -1,4 +1,4 @@
-algoritimo "0"
+algoritimo "06"
 var
 	a : real
 	b : real
