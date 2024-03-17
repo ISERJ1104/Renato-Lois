@@ -3,5 +3,5 @@ var
 	a : inteiro
 inicio
 	escreval("escreva um numero")
-	leia(a)
+		leia(a)
 fimalgoritimo
