@@ -1,4 +1,4 @@
-algoritimo "05"
+algoritmo "05"
 var
 	a : real
 	b : real
