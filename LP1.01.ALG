@@ -1,4 +1,4 @@
-algoritimo "01"
+algoritmo "01"
 var
 inicio
 	escreva("Ola Mundo")
