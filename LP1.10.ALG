@@ -1,4 +1,4 @@
-algoritimo "10"
+algoritmo "10"
 var
 	a : caracter
   b : real
