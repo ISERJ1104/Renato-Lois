@@ -7,4 +7,4 @@ inicio
   escreval("diga sua altura em metros")
   	leia(a)
   escreval("seu indice de massa corporea [imc] e: ", m / (a ^ 2))
-fimalgoritimo
+fimalgoritmo
