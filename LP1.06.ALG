@@ -8,4 +8,4 @@ inicio
 	escreval("digite quantos L de gasolina gastos)
 		leia(b)
 	escreval("A media gasta em L/Km e: ", b / a]
-fimalgoritimo
+fimalgoritmo
