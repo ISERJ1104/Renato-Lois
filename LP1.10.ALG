@@ -17,4 +17,4 @@ inicio
   escreval("do 4 bimestre:")
   	leia(e)
    escreval(a, ", a sua media anual e: ", (b + c + d + e) / 4)
-fimalgoritimo
+fimalgoritmo
