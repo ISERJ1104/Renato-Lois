@@ -11,4 +11,4 @@ inicio
 	escreval("digite o valor em reais do carpete por m^2")
 		leia(c]
 	escreval("para preencher a sala com carpete, voce gastara ", a * b * c," reais")
-fimalgoritimo
+fimalgoritmo
