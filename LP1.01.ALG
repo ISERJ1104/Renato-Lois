@@ -1,5 +1,5 @@
 algoritimo "01"
 var
 inicio
-escreva("Ola Mundo")
+	escreva("Ola Mundo")
 fimalgoritimo
