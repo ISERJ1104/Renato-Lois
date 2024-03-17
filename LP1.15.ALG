@@ -1,4 +1,4 @@
-algoritimo "15"
+algoritmo "15"
 var
 	c , j , m , f : real
  	
