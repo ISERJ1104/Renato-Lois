@@ -1,4 +1,4 @@
-algoritimo "04"
+algoritmo "04"
 var
 	n : inteiro
 	m : inteiro
