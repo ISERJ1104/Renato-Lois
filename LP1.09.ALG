@@ -1,4 +1,4 @@
-algoritimo "09"
+algoritmo "09"
 var
 	n : caracter
 	s : real
