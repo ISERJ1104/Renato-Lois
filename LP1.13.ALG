@@ -1,4 +1,4 @@
-algoritimo "13"
+algoritmo "13"
 var
 	m , a : real
 inicio
